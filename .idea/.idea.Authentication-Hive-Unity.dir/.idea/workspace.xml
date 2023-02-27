@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c111ab9f-e927-4414-8c91-4c2aa1745108" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/AdaptivePerformanceGeneralSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/AdaptivePerformanceGeneralSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/Provider.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/Provider/Samsung Android Provider Loader.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/Provider/Samsung Android Provider Loader.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/Settings/Samsung Android Provider Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/Settings/Samsung Android Provider Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/Settings/Simulator Provider Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Adaptive Performance/Settings/Simulator Provider Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/com.unity.mobile.notifications.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/com.unity.mobile.notifications/NotificationSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/Georgia.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/Georgia.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/MILLENNIA.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/MILLENNIA.TTF.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/Poppins-ExtraLight.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/Poppins-Medium.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/georgiai.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/georgiai.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hive-Unity.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hive-Unity.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/360_F_58604536_hvwxB8pCkAg9izHYCKearPUgk8YxUlj2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/360_F_58604536_hvwxB8pCkAg9izHYCKearPUgk8YxUlj2.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/360_F_58604536_hvwxB8pCkAg9izHYCKearPUgk8YxUlj2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/360_F_58604536_hvwxB8pCkAg9izHYCKearPUgk8YxUlj2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/HiveAuth_name_landscape_baseline_dark 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/HiveAuth_name_landscape_baseline_dark 1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Rectangle 73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Rectangle 73.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/hive-blockchain-blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/hive-blockchain-blog.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/QRCoder.Unity.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/QRCoder.Unity.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/QRCoder.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/QRCoder.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Configuration.ConfigurationManager.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Drawing.Common.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Drawing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Drawing.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Json.Microsoft.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Json.Microsoft.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.Http.WebRequest.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.Http.WebRequest.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.Http.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.WebSockets 1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.WebSockets 1.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.WebSockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.WebSockets.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Net.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Reactive.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Reactive.Linq.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Security.AccessControl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Security.AccessControl.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Security.Permissions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Security.Permissions.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/System.Security.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/zxing.unity.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/zxing.unity.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Readme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Readme.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CryptoJS.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CryptoJS.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/QrCodergen.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/QrCodergen.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Icons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/Help_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/Help_Icon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/Mobile 3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/Mobile 3D.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2MJVR6r9QR5bh5AFG6VvvDXDniV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\My PC\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\My PC\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\My PC\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c111ab9f-e927-4414-8c91-4c2aa1745108" name="Changes" comment="" />
+      <created>1677485661559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677485661559</updated>
+      <workItem from="1677485663520" duration="729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
