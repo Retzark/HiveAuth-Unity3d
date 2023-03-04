@@ -24,6 +24,7 @@ namespace generator
         public Button connectButton;
         public Text errorMessage;
         public Text tokenText;
+         public RawImage successImage;
 
         private ClientWebSocket socket;
 
@@ -36,6 +37,7 @@ namespace generator
         // ...
         void ProcessMessage(string msg)
         {
+            successImage.gameObject.SetActive(false);
             Debug.Log(msg);
             JObject JMsg = JObject.Parse(msg);
 
@@ -80,6 +82,9 @@ namespace generator
                         {
                             picQRCode.texture = qrCodeTexture;
                         }
+                        // Hide success image and token text
+                successImage.gameObject.SetActive(false);
+                tokenText.text = "";
 
                     }
                     catch (Exception ex)
@@ -99,6 +104,8 @@ namespace generator
                         ulong expire = (ulong)JData["expire"];
                         Debug.Log(string.Format("Authenticated with token: {0}", token));
                         tokenText.text = string.Format("Authenticated with token: {0}", token);
+                        // Show success image
+                successImage.gameObject.SetActive(true);
                     }
                     catch (Exception ex)
                     {
